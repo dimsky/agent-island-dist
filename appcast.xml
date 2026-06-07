@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Agent Island Updates</title>
+        <link>https://github.com/dimsky/agent-island-dist/releases</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <!-- Items are added by the release workflow. See docs/releasing.md. -->
+        <item>
+            <title>Version 0.0.3</title>
+            <sparkle:version>116</sparkle:version>
+            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Sun, 07 Jun 2026 05:23:55 +0000</pubDate>
+            <enclosure
+                url="https://github.com/dimsky/agent-island-dist/releases/download/v0.0.3/AgentIsland.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="3MSwdkOnGuOLpTFyx+4Zha9i2qq5jsN7Cza0BNdEhVI8owE+rw8mf+18Ins9Dbj7yi1AJIzpQ/Ll/zJYUBFzAg=="
+                length="16139494"
+            />
+        </item>
+        <item>
+            <title>Version 0.0.2</title>
+            <sparkle:version>116</sparkle:version>
+            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Sun, 07 Jun 2026 05:21:43 +0000</pubDate>
+            <enclosure
+                url="https://github.com/dimsky/agent-island-dist/releases/download/v0.0.2/AgentIsland.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="2v60DkOb/oh/N14tQaTrDqXSCBB3cXtvJ2raB+sjgFk3mDVAltahhTif6pV079CgJuPi3k6L2prmRGIk7rCODA=="
+                length="16139496"
+            />
+        </item>
+        <item>
+            <title>Version 0.0.1</title>
+            <sparkle:version>112</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Sun, 07 Jun 2026 03:27:26 +0000</pubDate>
+            <enclosure
+                url="https://github.com/dimsky/agent-island-dist/releases/download/v0.0.1/AgentIsland.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="ZZ0juyvaBXCf4BDgRifYxPL3eFmsD6CjYirDU6T//CyWOv4pcY9CFUV3iCjdmj8NK6qnIde2AZVE2MoK9IwRDQ=="
+                length="16134350"
+            />
+        </item>
+    </channel>
+</rss>
